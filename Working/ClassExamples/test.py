@@ -1,2 +1,3 @@
 print("this is a test")
-print("this is another test")
+print("another test")
+print("third test")
