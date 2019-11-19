@@ -11,8 +11,10 @@ side_One = float(input("Input first angle: "))
 side_Two = float(input("Input second angle: "))
 side_Three = float(input("Input third angle: "))
 
-# Determining if it is a triangle
+# Welcome the User
 print("Welcome to TriangleChecker2019!")
+
+# Determining if it is a triangle
 if side_One == side_Two == side_Three and side_One + side_Two + side_Three == 180:
     print("It is an equilateral triangle")
 elif side_One == side_Two and side_One + side_Two + side_Three == 180:
