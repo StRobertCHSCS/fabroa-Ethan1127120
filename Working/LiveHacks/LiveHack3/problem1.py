@@ -20,4 +20,4 @@ for i in range(1,heat_days + 1):
     if temperature < 15:
         days += 1
 
-print("There are " + str(days) + " heating days")
+print("There are " + str(days) + " heating days.")

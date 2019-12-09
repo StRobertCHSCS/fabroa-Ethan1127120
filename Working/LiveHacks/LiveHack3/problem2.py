@@ -20,4 +20,4 @@ while distance < 100:
 
 # Final Statement
 print("It took " + str(days) + " days to surpass 100km driven.")
-print("The average distance driven per day is " + str(distance/days) + "km")
+print("The average distance driven per day is " + str(distance/days) + "km.")
